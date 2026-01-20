@@ -1,0 +1,12 @@
+.task-card{
+    background-color: aliceblue;
+    margin: 15px auto;
+    padding: 5px 20px;
+    border-radius:  0 5px 5px 0 ;
+    border-left: 5px solid #68c2e8;
+    display: flex;
+    justify-content: space-between;
+}
+.trash-img{
+    color: red;
+}
