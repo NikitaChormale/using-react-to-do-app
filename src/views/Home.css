@@ -42,9 +42,12 @@ font-size: 20px;
     margin-left: 20px;
     border-radius: 4px;
     cursor: pointer;
-
 }
 .btn-task:hover{
     background-color: red;
     transition: 0.3s;
 }
+
+
+
+
