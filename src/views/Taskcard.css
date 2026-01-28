@@ -1,9 +1,9 @@
 .task-card{
-    background-color: aliceblue;
+    background-color: rgb(236, 171, 141);
     margin: 15px auto;
     padding: 5px 20px;
     border-radius:  0 5px 5px 0 ;
-    border-left: 5px solid #68c2e8;
+    border-left: 5px solid #b1df44;
     display: flex;
     justify-content: space-between;
 }
