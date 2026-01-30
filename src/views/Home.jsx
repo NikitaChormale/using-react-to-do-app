@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Taskcard from './TaskCard';
+import Taskcard from './Taskcard';
 
 function Home() {
   const [tasks, setTasks] = useState([]);
