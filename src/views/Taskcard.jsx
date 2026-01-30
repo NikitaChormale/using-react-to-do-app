@@ -1,7 +1,7 @@
 import React from 'react'
 import { Trash2 } from 'lucide-react'
 
-function TaskCard({ task, deleteTask }) {
+function Taskcard({ task, deleteTask }) {
   return (
     <div className="flex items-center justify-between bg-white px-4 py-3 overflow-y-auto rounded-r-lg rounded-l-sm shadow-md border-l-4 border-sky-950" > 
       
@@ -17,4 +17,4 @@ function TaskCard({ task, deleteTask }) {
   )
 }
 
-export default TaskCard
+export default Taskcard
